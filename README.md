@@ -1,5 +1,5 @@
 # Super simple chat server
-
+[![Build Status](https://travis-ci.org/jamesism/socket-chat.svg?branch=master)](https://travis-ci.org/jamesism/badges)
 This is a really basic socket.io chat server to be used for demo.
 
 ## Listens for:
