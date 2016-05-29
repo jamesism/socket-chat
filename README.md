@@ -13,6 +13,8 @@ When you want to register a new user for the chat, emit the `register` event wit
 ### message
 This sends a message to the chat server. Emit the `message` event with a payload keyed by `text` that is the text of your message.
 
+`socket.emit('message', { text: "Man I really don't like that stan guy." });`
+
 ## Emits:
 
 ### init
